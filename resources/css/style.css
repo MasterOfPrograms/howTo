@@ -1,0 +1,46 @@
+*{
+  background-color: #696969;
+}
+
+h1{
+  font-size: 3rem;
+  text-align: center;
+  Padding: 20px;
+  font-weight: bold;
+}
+
+h2{
+  font-size: 1.7rem;
+  text-align: center;
+  Padding-bottom: 20px;
+  font-weight: bold;
+}
+
+h3{
+  font-size: 1.4rem;
+  text-align: center;
+}
+
+h4{
+  text-align: center;
+}
+
+.blank-space{
+  color: #696969;
+}
+
+p{
+  text-align: center;
+  font-size: 1rem;
+  Padding-bottom: 10px;
+}
+
+a{
+  color: blue;
+  text-decoration: none;
+  Padding: 10px;
+}
+
+#note{
+  Padding-top: 50px;
+}
